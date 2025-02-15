@@ -1,4 +1,3 @@
-# Links-grupos
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -60,12 +59,11 @@
         <a href="https://chat.whatsapp.com/Bp5zKmRTrD91Z5E0cybuRe" target="_blank">2️⃣ 𝑪𝑺𝑳 - 𝑽𝑬𝑵𝑫𝑨𝑺 𝑬 𝑫𝑰𝑽𝑼𝑳𝑮𝑨𝑪̧𝑶̃𝑬𝑺</a>
         <a href="https://chat.whatsapp.com/JqcNtGuqMmwLwxQDboE3Sx" target="_blank">3️⃣ Belezas de Castelo 📸🛣️🏞️☀️🪂</a>
         <a href="https://chat.whatsapp.com/Bx009nqeVka2lwvh9WPnqA" target="_blank">4️⃣ 𝐁𝐀𝐓𝐀𝐋𝐇𝐀 𝐃𝐄 𝐅𝐈𝐆𝐔𝐑𝐈𝐍𝐇𝐀𝐒 🎭 NEW</a>
-        <a href="https://t.me/castelosemlimites" target="_blank">5️⃣ 𝑪𝑨𝑺𝑻𝑬𝑳𝑶 𝑺𝑬𝑴 𝑳𝑰𝑴𝑰𝑻𝑬𝑺 [TELEGRAM]</a>
-        <a href="https://www.instagram.com/castelosemlimites?igsh=NGYyMWVxaWx2cndv" target="_blank">6️⃣ PÁGINA NO INSTAGRAM</a>
+        <a href="https://www.instagram.com/castelosemlimites?igsh=NGYyMWVxaWx2cndv" target="_blank">5️⃣ PÁGINA NO INSTAGRAM</a>
     </div>
 
     <footer>
-        <p>&copy; 2025 - Grupo/WhatsApp - Castelo Sem Limites </p>
+        <p>&copy; 2025 - Grupo/WhatsApp - Castelo Sem Limites | AutoResponder.ai</p>
     </footer>
 </body>
 </html>
