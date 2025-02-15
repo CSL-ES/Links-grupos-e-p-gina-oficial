@@ -9,12 +9,16 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f9f9f9;
-            color: #333;
             text-align: center;
+            background-image: url('https://dl.dropboxusercontent.com/scl/fi/ris7pnblqwwy3j73qdlc0/1732836837691.jpeg?rlkey=97xz6hmq1hgnn57wh6xwv2pzo&dl=0');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #fff; /* Deixa o texto branco para contraste */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para legibilidade */
         }
         h1 {
-            color: #444;
+            margin-bottom: 10px;
         }
         p {
             font-size: 16px;
@@ -30,21 +34,23 @@
             display: block;
             width: 80%;
             max-width: 400px;
-            padding: 10px;
+            padding: 12px;
             text-decoration: none;
             color: white;
-            background-color: #007bff;
+            background-color: rgba(0, 123, 255, 0.8); /* Azul com transparência */
             border-radius: 5px;
             transition: 0.3s;
             font-size: 16px;
+            font-weight: bold;
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
         }
         .link-container a:hover {
-            background-color: #0056b3;
+            background-color: rgba(0, 86, 179, 0.9);
         }
         footer {
             margin-top: 30px;
             padding: 10px;
-            background-color: #333;
+            background-color: rgba(0, 0, 0, 0.7);
             color: white;
             font-size: 14px;
         }
